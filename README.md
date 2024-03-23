@@ -1,6 +1,6 @@
 # Stats Preview Card Component
 
-This project is a simple implementation of a Stats Preview Card Component using Vite and React. It demonstrates how to create a responsive card component displaying statistics with an accompanying image.
+This project is a simple implementation of a Stats Preview Card Component using Vite and React. It demonstrates how to create a responsive card component displaying statistics with an accompanying image. A challenge by Frontend Mentor.
 
 ## Technologies Used
 
