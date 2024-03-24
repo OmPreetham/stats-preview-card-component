@@ -2,6 +2,8 @@
 
 This project is a simple implementation of a Stats Preview Card Component using Vite and React. It demonstrates how to create a responsive card component displaying statistics with an accompanying image. A challenge by Frontend Mentor.
 
+![Preview](/public/preview.png)
+
 ## Technologies Used
 
 - [Vite](https://vitejs.dev/): A build tool that aims to provide a faster and leaner development experience for modern web projects.
