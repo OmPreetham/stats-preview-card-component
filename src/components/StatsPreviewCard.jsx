@@ -31,9 +31,9 @@ const StatsPreviewCard = () => {
           <picture>
             <source
               media="(min-width: 550px)"
-              srcSet="/images/image-header-mobile.jpg"
+              srcSet="./images/image-header-mobile.jpg"
             />
-            <img src="/images/image-header-desktop.jpg" alt="Hero Image" />
+            <img src="./images/image-header-desktop.jpg" alt="Hero Image" />
           </picture>
         </div>
         <div className="overlay"></div>
